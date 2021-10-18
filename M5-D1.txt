@@ -1,0 +1,36 @@
+Back-end Development 
+
+Html+Javascript/CSS-SASS/Advance JS/REact/NodeExpress/MongoDB
+
+M5-full stack developer require mastery of both backend and frondend 
+
+Web Services (Rest),Client-server Architecture, NodeJs, Express JS, Middlewares
+
+Express- help creating web services and adding functionalities
+Middlewares- aditional functionalities that we can add to our web services 
+
+Frontend Vs Backend 
+Frontend: user interaction, client side code . The client consume the server via HTTP Requests
+BackEnd: data persistance , single source of truth, server side code. The server provides services responding with HTTP Responses via Endpoints 
+
+Backend main features
+-Data persistance 
+-Authentication/Authorization
+-User custom experience
+
+WebAPI's
+
+NodeJs
+ExpressJS, Routes, CRUD
+Middlewares, Error Handling, CORS
+
+NodeJs-javascript runtime build on Chrome's V8 Javascript engine 
+Agile- development methodology based on iterative and incremental approach 
+
+HTTP
+HyperText Transfer Protocol 
+it's a message that you are sending to the server 
+every message is called a REQUEST
+every reply is called RESPONSE
+The rquest contains
+URL => httpls://google.com/apis/test
