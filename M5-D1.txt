@@ -34,3 +34,51 @@ every message is called a REQUEST
 every reply is called RESPONSE
 The rquest contains
 URL => httpls://google.com/apis/test
+Method => GET, POST, PUT, PATCH, DELETE
+PATCH- works on just a field , for example
+Headers => Authorization, Cookies, Content-Type 
+Payload => data or empty
+
+HTTPS is just the secure (encrypted) version of HTTP
+The method tells the endpoint the purpose of our request
+GET => I want some information
+POST=> i'm sending some information
+PUT => I want to edit something 
+DELETE => i want to delete something 
+most used methods in modern API
+Headers specifies some extra information about the request
+Content-Type => I'm sending data in JSON format 
+Authorization => This is my key to authorize me 
+Accept => I expect to receive back some JSON data
+Cookie 
+Create custom headers 
+payload is actually to send some information
+HTTPS Response
+is sent by the server to reply to the Request
+Payload => contains the information requested by the request
+Status Code => tell us result of the operation 
+Headers => extra info 
+HTTP Response-Status Code
+200 OK=> contains the information requested bt the request
+201 Created => tells us the result of the operation 
+400 Bad Request=> there is something wrong with your request
+401 Unauthorized => you are not authorized 
+404 Not found => cannot find the info you are looking for 
+500 internal server error => something wrong, server side 
+
+JSON 
+Javascript Object Notation 
+Data interchange format 
+Javascript friendly 
+
+Backend 
+Combination of DB + software written in a server side language 
+Server side code directly interact with the DB with some Apis which could fetch 
+
+WebAPI
+API => Application Programming Interface 
+WebAPI => API over the web which can be accessed using HTTP protocol 
+WebAPI => collection of endpoints 
+
+
+
