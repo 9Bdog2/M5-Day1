@@ -83,6 +83,23 @@ WebAPI => collection of endpoints
 NodeJS M5-D1
 Thread Processing / Waiting 
 Blocking / Non Blocking 
+Event Loop
+NPM 
+(package manager)
+largest ecosystem of open source libraries in the world 
+Package.json
+everything will start from here
+is a kind of manifest for your project
+It's where npm store the name and version for all the modules installed 
+
+Modules 
+Modularity at it's best 
+Core modules/Local Modules/Third party modules 
+
+Pros
+Javascript everywhere / speed and performances / Community and ecosystem 
+Cons
+Javascript everywhere / speed and performances / Community and ecosystem 
 
 
 
