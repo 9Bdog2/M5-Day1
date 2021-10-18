@@ -81,6 +81,9 @@ WebAPI => API over the web which can be accessed using HTTP protocol
 WebAPI => collection of endpoints 
 
 NodeJS M5-D1
+Thread Processing / Waiting 
+Blocking / Non Blocking 
+
 
 
 
